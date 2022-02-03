@@ -47,4 +47,25 @@ Start the server
 ```
 
 
+## Roadmap
+- Implement user and admin login
+
+- Implement admin dashboard with a good UI and UX.
+
+- Implement sort the data by their date, and price.
+
+- Implement user-role
+
+- Additional browser support
+
+- Add more integrations
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
 
